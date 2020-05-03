@@ -21,7 +21,9 @@ admin can edit the products.
 
 Once u clicked The product then u will be redirected towards the products.jsp where All products under that category will be displayed.
 
-![Screenshot (28)](https://user-images.githubusercontent.com/61315497/80919228-7c5fab00-8d86-11ea-959b-db7c7575bc70.png)
+
+![Screenshot (25)](https://user-images.githubusercontent.com/61315497/80919365-263f3780-8d87-11ea-92fe-e2e1dfec3c83.png)
+
 
 For update Admin should fill details of the products to be updated and submit it n with the help of jdbc preparestatement object method
 executeUpdate(); changes will be visible.
