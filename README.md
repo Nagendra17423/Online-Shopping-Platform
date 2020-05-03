@@ -17,6 +17,9 @@ admin can edit the products.
 
 
                                          Category Section:
+ Adding of the products is kind of main part of the project  where using im using servlet api 2.5 bcouz of which i cant go for MultiConfigPart(Attribute....) Annotations because this things is valid for only servlet ver 3.0 so i go manual work where 
+ images of the products are stored in temp() of workspace folder and location of the img src is also relative so no problem during deployment
+ 
 ![Screenshot (23)](https://user-images.githubusercontent.com/61315497/80918491-ee35f580-8d82-11ea-88cf-6384dd9164a6.png)
 
 Once u clicked The product then u will be redirected towards the products.jsp where All products under that category will be displayed.
